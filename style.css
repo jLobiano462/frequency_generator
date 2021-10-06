@@ -172,7 +172,7 @@ i{
 
 .profile-container{
   width:150px;
-  background: url('myface.jpg');
+  background: url('myFace.jpg');
   background-size: 100%;
   background-position: top center;
   background-repeat: no-repeat;
@@ -244,7 +244,7 @@ laptop: 1024 px;
    .profile-container{
      width:95px;
      height: 95px;
-     
+
    }
 
    .side-bar{
